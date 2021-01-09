@@ -1,2 +1,2 @@
 FROM nginx:latest
-RUN echo "<h1>Helleo ECS Service!</h1>" > /usr/share/nginx/html/index.html
+RUN echo "<h1>Hello ECS Service!</h1>" > /usr/share/nginx/html/index.html
